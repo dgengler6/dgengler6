@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Damien
-- 🔭 I'm a Freelance Data Scientist.
+- :zap: I'm a Freelance Data Scientist.
 - 👀 I'm interested in Machine Learning and Data Science.
 - 🌲 I enjoy solving complex problems using Code.
-- 🔭 I’m currently looking for a job in the field of Machine Learning.
+- 🔭 I’m always on the look-out for new projects!
 - 📫 Feel free to reach me at: gengler.damien@gmail.com
 <!--
 **dgengler6/dgengler6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
