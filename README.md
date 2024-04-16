@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Damien
-- :zap: I'm a Freelance Data Scientist.
+- :zap: I'm a Freelance Data Scientist and Machine Learning Engineer.
 - 👀 I'm interested in Machine Learning and Data Science.
 - 🌲 I enjoy solving complex problems using Code.
 - 🔭 I’m always on the look-out for new projects!
